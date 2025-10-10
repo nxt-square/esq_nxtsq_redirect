@@ -1,0 +1,29 @@
+{
+  "redirects": [
+    {
+      "source": "/",                
+      "destination": "https://esim.telecomsquare.net/",
+      "permanent": true
+    },
+    {
+      "source": "/en",            
+      "destination": "https://esim.telecomsquare.net/en",
+      "permanent": true
+    },
+        {
+      "source": "/ja",            
+      "destination": "https://esim.telecomsquare.net/ja",
+      "permanent": true
+    },
+    {
+      "source": "/nxt",            
+      "destination": "https://esim.telecomsquare.net/?affiliateId=436",
+      "permanent": true
+    },
+    {
+      "source": "/nxt-10",            
+      "destination": "https://esim.telecomsquare.net/?affiliateId=462",
+      "permanent": true
+    }
+  ]
+}
