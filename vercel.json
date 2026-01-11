@@ -36,7 +36,7 @@
       "permanent": true
     },
     {
-      "source": "/amnet",            
+      "source": "/amnet-10",            
       "destination": "https://esim.telecomsquare.net/?affiliateId=460",
       "permanent": true
     }
